@@ -1,7 +1,6 @@
-### Hi there 👋
+README.md
 
-<!--
-**aberds1203/aberds1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h2>I have been working in the IT industry for over 13 years now. I have experience in a variety of areas, including system administration, network administration, and software development. I am currently a IT Expert for a company that provides solutions for businesses.</h2>
 
 <h3>This is my Latest Blog Post</h3>
